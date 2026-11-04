@@ -1,2 +1,13 @@
-# github_filesystem_pdf-tools_word_1510-7k3m91-arxiv-2403.03507v2
-LaTeX source mirror for the manuscript 'GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection' (arXiv:2403.03507v2). Typeset sources only.
+# arXiv:2403.03507v2 - manuscript source
+
+LaTeX source for the manuscript
+"GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection"
+(arXiv:2403.03507v2).
+
+This archive mirrors the typeset manuscript source for archival purposes.
+
+Contents:
+- `main.tex`
+- `references.bib`
+- `sections/abstract.tex`
+- `sections/method.tex`
